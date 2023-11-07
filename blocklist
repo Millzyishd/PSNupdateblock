@@ -14,7 +14,7 @@
 0.0.0.0 sgst.prod.dl.playstation.net
 0.0.0.0 gs2.ww.prod.dl.playstation.net
 
-#[community.playstation.net]
+# community.playstation.net
 0.0.0.0 asm.np.community.playstation.net
 0.0.0.0 ps4.updptl.np.community.playstation.net
 0.0.0.0 ps4.updptl.sp-int.community.playstation.net
@@ -26,7 +26,7 @@
 0.0.0.0 t-prof.np.community.playstation.net
 0.0.0.0 us-prof.net.community.playstation.net
 
-#[dl.playstation.net]
+# dl.playstation.net 
 0.0.0.0 crepo.ww.dl.playstation.net
 0.0.0.0 gs-sec.ww.np.dl.playstation.net
 0.0.0.0 gs2.ww.prod.dl.playstation.net
@@ -36,7 +36,7 @@
 0.0.0.0 themis.dl.playstation.net
 0.0.0.0 tmdb.np.dl.playstation.net
 
-#[playstation.net]
+# playstation.net 
 0.0.0.0 al02.cdn.update.playstation.net
 0.0.0.0 commerce1.api.np.km.playstation.net
 0.0.0.0 elb001-p4ci01.p4ci.usw2.np.cy.s0.playstation.net
@@ -49,12 +49,12 @@
 0.0.0.0 sf.api.np.km.playstation.net
 0.0.0.0 us.np.stun.playstation.net
 
-#[ribob01.net]
+# ribob01.net 
 0.0.0.0 api-p014.ribob01.net
 0.0.0.0 apicdn-p014.ribob01.net
 0.0.0.0 artcdnsecure.ribob01.net
 
-#[Misc]
+# Misc 
 0.0.0.0 a01.cdn.update.playstation.org.edgesuite.net
 0.0.0.0 a192.d.akamai.net
 0.0.0.0 any.updptl.np.community.playstation.net.edgekey.net
